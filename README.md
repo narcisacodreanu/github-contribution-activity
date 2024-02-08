@@ -4,6 +4,8 @@ Application that hits the GitHub GraphQL API and retrieves your GitHub contribut
 
 Built with [Remix](https://remix.run/docs).
 
+<img width="1664" alt="Screen Shot 2024-02-07 at 7 33 49 PM" src="https://github.com/narcisacodreanu/github-contribution-activity/assets/10314636/1dbcdb81-3eed-4fe1-baf7-f877c7b1dac4">
+
 ## Development
 
 From your terminal:
